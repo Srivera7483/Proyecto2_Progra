@@ -60,16 +60,16 @@ Estructura del Proyecto
 
 El código está organizado siguiendo el principio de separación de responsabilidades:
 
-├── crud/                   # Lógica de Negocio (Create, Read, Update, Delete)
-│   ├── cliente_crud.py
-│   ├── ingrediente_crud.py
-│   └── ...
-├── models.py               # Modelos ORM (Clases mapeadas a tablas)
-├── database.py             # Configuración de conexión a BD
-├── BoletaFacade.py         # Patrón Facade para generación de PDFs
-├── main.py                 # Punto de entrada y GUI (Vista)
-├── ingredientes_menu.csv   # Datos semilla para el inventario
-└── requirements.txt        # Lista de dependencias
+├── crud/                   # Lógica de Negocio (Create, Read, Update, Delete)\\
+│   ├── cliente_crud.py\\
+│   ├── ingrediente_crud.py\\
+│   └── ...\\
+├── models.py               # Modelos ORM (Clases mapeadas a tablas)\\
+├── database.py             # Configuración de conexión a BD\\
+├── BoletaFacade.py         # Patrón Facade para generación de PDFs\\
+├── main.py                 # Punto de entrada y GUI (Vista)\\
+├── ingredientes_menu.csv   # Datos semilla para el inventario\\
+└── requirements.txt        # Lista de dependencias\\
 
 
 Patrones de Diseño Aplicados
