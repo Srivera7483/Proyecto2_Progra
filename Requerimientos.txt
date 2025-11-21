@@ -1,0 +1,20 @@
+Interfaz Gráfica Moderna
+
+customtkinter==5.2.2
+packaging==23.2
+
+Base de Datos y ORM
+
+SQLAlchemy==2.0.25
+
+Generación de PDFs
+
+fpdf2==2.7.8
+
+Gráficos y Visualización de Datos
+
+matplotlib==3.8.2
+
+Manejo de Imágenes (Necesario para CustomTkinter y FPDF)
+
+Pillow==10.2.0
