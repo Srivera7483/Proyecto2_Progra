@@ -1,4 +1,4 @@
-Sistema de Gestión de Restaurante "Cangri & sons™"
+#Sistema de Gestión de Restaurante "Cangri & sons™"
 
 Evaluación 3 - Programación II - Ingeniería Civil en Informática
 
@@ -20,7 +20,7 @@ Generación de Documentos: Creación de boletas detalladas en formato PDF usando
 
 Validaciones: Control de errores en inputs de usuario (Regex para correos, validación de tipos numéricos, stock negativo).
 
-🛠️ Instalación y Ejecución
+Instalación y Ejecución
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
