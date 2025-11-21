@@ -80,6 +80,8 @@ El código está organizado siguiendo el principio de separación de responsabil
 
 │   └── ...
 
+├── outpot/
+
 ├── models.py               # Modelos ORM (Clases mapeadas a tablas)
 
 ├── database.py             # Configuración de conexión a BD
