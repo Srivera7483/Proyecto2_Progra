@@ -1,4 +1,4 @@
-#Sistema de Gestión de Restaurante "Cangri & sons™"
+# Sistema de Gestión de Restaurante "Cangri & sons™"
 
 Evaluación 3 - Programación II - Ingeniería Civil en Informática
 
