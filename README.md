@@ -1,6 +1,18 @@
 # Sistema de Gestión de Restaurante "Cangri & sons™"
 
-Evaluación 3 - Programación II - Ingeniería Civil en Informática
+# Evaluación 3 - Programación II - Ingeniería Civil en Informática
+
+# Equipo de Desarrollo:
+
+Sebastian Rivera
+
+Simón Molina
+
+Pablo Urra
+
+Asignatura: Programación II
+Universidad Católica de Temuco
+Fecha: Noviembre 2025
 
 Descripción del Proyecto
 
@@ -87,16 +99,4 @@ Facade (BoletaFacade.py): Simplifica la compleja librería FPDF, proveyendo una 
 
 MVC (Implícito): Separación clara entre los Modelos (models.py), la Lógica de Control (crud/) y la Vista (main.py).
 
-Autores
 
-Equipo de Desarrollo:
-
-Sebastian Rivera
-
-Simón Molina
-
-Pablo Urra
-
-Asignatura: Programación II
-Universidad Católica de Temuco
-Fecha: Noviembre 2025
